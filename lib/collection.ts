@@ -97,5 +97,5 @@ export function furnitureImageSet(item: FurnitureItem) {
 }
 
 export function furnitureEnquiry(item: FurnitureItem) {
-  return `https://wa.me/918639121227?text=${encodeURIComponent(`Hello Hotel and Resturant Furniture, I am interested in "${item.title}" (${item.category}). Please share the available options. My city is `)}`;
+  return `https://wa.me/918639121227?text=${encodeURIComponent(`Hello Hotel and Restaurant Furniture, I am interested in "${item.title}" (${item.category}). Please share the available options. My city is `)}`;
 }

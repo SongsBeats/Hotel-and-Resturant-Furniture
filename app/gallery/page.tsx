@@ -9,7 +9,7 @@ import { galleryCategories, galleryItems } from '@/lib/gallery-data';
 import './gallery.css';
 
 const title = 'Furniture Gallery | Dining Sets & Restaurant Sofas | Vijayawada';
-const description = 'Browse six-seater, couple and four-seater dining sets, plus restaurant sofas. Hotel and Resturant Furniture, Vijayawada. Enquiries from Vizag and Hyderabad welcome.';
+const description = 'Browse six-seater, couple and four-seater dining sets, plus restaurant sofas. Hotel and Restaurant Furniture, Vijayawada. Enquiries from Vizag and Hyderabad welcome.';
 const cover = galleryItems.find((item) => item.id === galleryCategories[0].coverId)!;
 
 export const metadata: Metadata = {

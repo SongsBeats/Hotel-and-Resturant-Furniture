@@ -1,7 +1,9 @@
 export const business = {
-  name: 'Hotel and Resturant Furniture',
+  name: 'Hotel and Restaurant Furniture',
   phone: '+91 8639121227',
   telephone: '+918639121227',
+  hoursDisplay: 'Monday–Saturday, 8 AM–10 PM. Closed on Sunday.',
+  googleProfile: 'https://maps.app.goo.gl/ZTwRGQu86QNqKCMQ8',
   address: 'Ambapuram Road, Near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager, Vijayawada-520015',
   map: 'https://www.google.com/maps?q=16.546791076660156,80.64033508300781&z=17&hl=en',
   directions: 'https://www.google.com/maps/dir/?api=1&destination=16.546791076660156,80.64033508300781',
@@ -26,11 +28,11 @@ export const siteUrl = getSiteUrl();
 export const faqs = [
   {
     question: 'What kind of furniture can I enquire about?',
-    answer: 'Explore couple seating, four-seater and six-seater dining sets, restaurant sofas, chairs and table-and-bench sets for hotels, restaurants and cafés. Share a gallery photo or its reference when you contact us to discuss current availability.',
+    answer: 'Explore couple seating, four-seater and six-seater dining sets, restaurant sofas, chairs and table-and-bench sets for hotels, restaurants and cafés. We also welcome enquiries for office furniture, school furniture, college furniture and hostel furniture. Share your requirements or a gallery reference to discuss availability.',
   },
   {
     question: 'Where are you located in Vijayawada?',
-    answer: 'Hotel and Resturant Furniture is located on Ambapuram Road, near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager, Vijayawada-520015. Call +91 8639121227 to plan your visit.',
+    answer: 'Hotel and Restaurant Furniture is located on Ambapuram Road, near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager, Vijayawada-520015. Call +91 8639121227 to plan your visit.',
   },
   {
     question: 'Can I enquire from Vizag or Hyderabad?',
@@ -51,7 +53,7 @@ export const structuredData = {
   '@type': 'FurnitureStore',
   name: business.name,
   telephone: business.telephone,
-  description: 'Hotel, restaurant and café furniture in Vijayawada, with enquiries welcome from Visakhapatnam (Vizag) and Hyderabad.',
+  description: 'Hotel, restaurant, office, school, college and hostel furniture in Vijayawada, with enquiries welcome from Visakhapatnam (Vizag) and Hyderabad.',
   ...(siteUrl ? { '@id': `${siteUrl}/#business`, url: siteUrl, image: `${siteUrl}/images/upholstered-dining-set.webp` } : {}),
   address: {
     '@type': 'PostalAddress',
@@ -63,6 +65,13 @@ export const structuredData = {
   },
   geo: { '@type': 'GeoCoordinates', latitude: 16.546791076660156, longitude: 80.64033508300781 },
   hasMap: business.map,
+  sameAs: [business.googleProfile],
+  openingHoursSpecification: [{
+    '@type': 'OpeningHoursSpecification',
+    dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+    opens: '08:00',
+    closes: '22:00',
+  }],
   areaServed: [
     { '@type': 'City', name: 'Vijayawada' },
     { '@type': 'City', name: 'Visakhapatnam', alternateName: 'Vizag' },

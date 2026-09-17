@@ -1,4 +1,4 @@
-# Hotel and Resturant Furniture
+# Hotel and Restaurant Furniture
 
 A responsive furniture catalogue for the Vijayawada business, built with Next.js, React and TypeScript. The homepage uses the original nine photos; the dedicated gallery contains all 55 photos from the four category folders. Photos are served as compressed, responsive WebP copies. No prices are displayed.
 

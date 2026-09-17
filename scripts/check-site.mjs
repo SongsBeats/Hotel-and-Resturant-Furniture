@@ -82,7 +82,7 @@ try {
 
   await check('Business identity, contact links and price-free content', async () => {
     await loadPage();
-    await expect(page).toHaveTitle(/Hotel and Resturant Furniture.*Vijayawada/);
+    await expect(page).toHaveTitle(/Hotel and Restaurant Furniture.*Vijayawada/);
     await expect(page.getByRole('heading', { level: 1 })).toHaveCount(1);
     await expect(page.getByRole('heading', { name: /find your kind of furniture/i })).toBeVisible();
     const phoneLinks = page.locator('a[href="tel:+918639121227"]');
@@ -212,7 +212,7 @@ try {
     });
     const business = entities.find((entity) => entity['@type'] === 'FurnitureStore');
     assert.ok(business, 'FurnitureStore structured data should exist');
-    assert.equal(business.name, 'Hotel and Resturant Furniture');
+    assert.equal(business.name, 'Hotel and Restaurant Furniture');
     assert.equal(business.telephone, '+918639121227');
     assert.equal(business.address.addressLocality, 'Vijayawada');
     assert.equal(business.address.postalCode, '520015');
