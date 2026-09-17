@@ -7,3 +7,5 @@ test-results/
 .vercel/
 .env
 .env.production
+public/images/**/*-480.webp
+public/images/**/*-800.webp

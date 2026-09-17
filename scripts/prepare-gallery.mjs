@@ -125,7 +125,7 @@ for (const category of categories) {
     const info = await sharp(source)
       .rotate()
       .resize({ width: 1600, height: 1600, fit: 'inside', withoutEnlargement: true })
-      .webp({ quality: 85, effort: 5 })
+      .webp({ quality: 72, effort: 6 })
       .toFile(base);
 
     // Responsive copies retain the entire original composition.

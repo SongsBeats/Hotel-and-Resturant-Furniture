@@ -46,6 +46,8 @@ npm run prepare:gallery
 
 This only resizes and encodes copies. Full photo framing is available in each product dialog. Thumbnail cropping is display-only CSS.
 
+The production build generates the 480px and 800px responsive copies from the full-size WebP assets. Only one optimized web copy per photo needs to be uploaded or kept in version control; original JPEGs also remain available in the repository.
+
 Gallery categories follow the supplied folders: Six Sittings (5 photos), Couple Sittings (6), Four Sittin Set (24), and Resturant Sofas (20). Original folders remain intact. To add new items, update the catalogue in `scripts/prepare-gallery.mjs`, then regenerate and rebuild.
 
 ## Verification

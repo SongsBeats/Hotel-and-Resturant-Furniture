@@ -29,7 +29,7 @@ for (const [source, slug] of sources) {
     const result = await sharp(input)
       .rotate()
       .resize({ width, withoutEnlargement: true })
-      .webp({ quality: width === 1280 ? 87 : 82, effort: 5 })
+      .webp({ quality: 78, effort: 6 })
       .toFile(path.join(output, `${slug}${suffix}.webp`));
     console.log(`${slug}${suffix}.webp: ${result.width} x ${result.height}, ${Math.round(result.size / 1024)} KB`);
   }
