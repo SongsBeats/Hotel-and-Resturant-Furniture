@@ -2,6 +2,15 @@
 
 A responsive furniture catalogue for the Vijayawada business, built with Next.js, React and TypeScript. The homepage uses the original nine photos; the dedicated gallery contains all 55 photos from the four category folders. Photos are served as compressed, responsive WebP copies. No prices are displayed.
 
+## Live website
+
+- Website: https://hotel-and-resturant-furniture.vercel.app/
+- Gallery: https://hotel-and-resturant-furniture.vercel.app/gallery/
+- Private source repository: https://github.com/SongsBeats/Hotel-and-Resturant-Furniture
+- Vercel project: `hotel-and-resturant-furniture` in `songsbeats-projects`.
+
+The production deployment was uploaded directly through the Vercel integration on 17 September 2026. The GitHub repository stores the source; automatic deployments from Git pushes have not been configured.
+
 ## Run locally
 
 ```sh

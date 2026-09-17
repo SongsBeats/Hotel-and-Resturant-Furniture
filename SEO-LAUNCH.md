@@ -2,6 +2,8 @@
 
 Prepared 17 September 2026. The website presents one business based in Vijayawada and accepts furniture enquiries for Vijayawada, Visakhapatnam (Vizag), and Hyderabad. Those cities are service markets, not separate store locations.
 
+Production website: https://hotel-and-resturant-furniture.vercel.app/ . Use this URL in the Business Profile until a custom domain is connected. The public homepage returns HTTP 200 with a self-referencing canonical and `index, follow`. The gallery is at `/gallery/`. Google Business Profile and Search Console have not yet been created or configured by this project.
+
 ## Business details to keep consistent
 
 - **Name:** Hotel and Resturant Furniture
