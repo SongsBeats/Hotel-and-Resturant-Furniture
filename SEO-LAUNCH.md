@@ -6,9 +6,9 @@ Production website: https://hotel-and-resturant-furniture.vercel.app/ . Use this
 
 ## Business details to keep consistent
 
-- **Name:** Hotel and Restaurant Furniture
+- **Name:** Andhra Hotel and Restaurant Furniture
 - **Telephone:** +91 8639121227
-- **Address:** Ambapuram Road, Near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager, Vijayawada-520015
+- **Address:** Ambapuram Road, Near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager, Vijayawada, Andhra Pradesh 520015
 - **Coordinates supplied:** 16.546791076660156, 80.64033508300781
 - **Map:** [Open the supplied location](https://www.google.com/maps?q=16.546791076660156,80.64033508300781&z=17&hl=en)
 
@@ -24,7 +24,7 @@ The owner requested the correct spelling Restaurant on 17 September 2026. Websit
 
 ### Suggested profile description
 
-> Hotel and Restaurant Furniture is based on Ambapuram Road in Vijayawada. Explore furniture for hotels, restaurants and cafes, including seating and dining tables. We welcome furniture enquiries from Vijayawada, Visakhapatnam (Vizag) and Hyderabad. Contact us to discuss your space, preferred designs, quantities and current availability. Find us near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager.
+> Andhra Hotel and Restaurant Furniture is based on Ambapuram Road in Vijayawada. Explore furniture for hotels, restaurants and cafes, including seating and dining tables. We welcome furniture enquiries from Vijayawada, Visakhapatnam (Vizag) and Hyderabad. Contact us to discuss your space, preferred designs, quantities and current availability. Find us near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager.
 
 Confirm the offered product categories before pasting this description. It includes no prices, invented experience, delivery commitments, or reviews.
 
@@ -39,13 +39,21 @@ Confirm the offered product categories before pasting this description. It inclu
 
 ## Search and AI discovery
 
-Recommended page title: **Hotel and Restaurant Furniture | Vijayawada**
+Recommended page title: **Andhra Hotel and Restaurant Furniture | Vijayawada**
 
-Recommended description: **Explore hotel and restaurant furniture in Vijayawada. Chairs and dining tables for enquiries across Vijayawada, Vizag and Hyderabad. Call +91 8639121227.**
+Recommended description: **Explore hotel and restaurant furniture at Andhra Hotel and Restaurant Furniture in Vijayawada. Chairs and dining tables for enquiries across Vijayawada, Vizag and Hyderabad. Call +91 8639121227.**
 
 Use natural headings and direct answers about what the business offers, where it is based, which cities it serves, and how to enquire. Use Visakhapatnam and its familiar name Vizag together once. Describe supplied images accurately; add material, dimensions, lead time or customisation details only when confirmed.
 
 For Google AI Overviews and AI Mode, ordinary SEO foundations remain relevant: indexable pages, useful visible text, clear images, internal links, and structured data matching the page. Google requires no special AI schema or AI text file. These measures support discoverability; inclusion and rankings are not guaranteed. [Google's AI features guidance](https://developers.google.com/search/docs/appearance/ai-features)
+
+## October 2026 profile alignment and phone number appeal
+
+- Updated business name: Andhra Hotel and Restaurant Furniture (formerly Hotel and Restaurant Furniture / Andhra Furniture and Interiors).
+- Primary category: Furniture wholesaler. Additional categories: Bar Restaurant Furniture Shop, Office Furniture Shop.
+- Added dedicated `/contact/` page with complete NAP (Name, Address, Phone Number), business hours, categories, Google Map embed, and ContactPage / FurnitureStore schema.
+- Phone number (+91 8639121227) and address (Ambapuram Road, Near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager, Vijayawada, Andhra Pradesh 520015) aligned 100% with Google Business Profile for India phone number review.
+- Structured data updated with legalName, alternateName, telephone, email, and ContactPoint.
 
 ## September 17 profile alignment
 

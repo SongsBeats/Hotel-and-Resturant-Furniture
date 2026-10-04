@@ -1,15 +1,20 @@
 export const business = {
-  name: 'Hotel and Restaurant Furniture',
+  name: 'Andhra Hotel and Restaurant Furniture',
+  legalName: 'Andhra Hotel and Restaurant Furniture',
+  alternateNames: ['Hotel and Restaurant Furniture', 'Andhra Furniture and Interiors'],
   phone: '+91 8639121227',
   telephone: '+918639121227',
+  email: 'andhrafurnitureandinteriors@gmail.com',
+  primaryCategory: 'Furniture wholesaler',
+  categories: ['Furniture wholesaler', 'Bar Restaurant Furniture Shop', 'Office Furniture Shop'],
   hoursDisplay: 'Monday–Saturday, 8 AM–10 PM. Closed on Sunday.',
   googleProfile: 'https://maps.app.goo.gl/ZTwRGQu86QNqKCMQ8',
-  address: 'Ambapuram Road, Near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager, Vijayawada-520015',
+  address: 'Ambapuram Road, Near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager, Vijayawada, Andhra Pradesh 520015',
   map: 'https://www.google.com/maps?q=16.546791076660156,80.64033508300781&z=17&hl=en',
   directions: 'https://www.google.com/maps/dir/?api=1&destination=16.546791076660156,80.64033508300781',
 };
 
-export function whatsapp(message = 'Hello, I would like to enquire about furniture for my hotel, restaurant or café.') {
+export function whatsapp(message = 'Hello Andhra Hotel and Restaurant Furniture, I would like to enquire about furniture for my hotel, restaurant or café.') {
   return `https://wa.me/918639121227?text=${encodeURIComponent(message)}`;
 }
 
@@ -32,7 +37,7 @@ export const faqs = [
   },
   {
     question: 'Where are you located in Vijayawada?',
-    answer: 'Hotel and Restaurant Furniture is located on Ambapuram Road, near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager, Vijayawada-520015. Call +91 8639121227 to plan your visit.',
+    answer: 'Andhra Hotel and Restaurant Furniture is located on Ambapuram Road, near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager, Vijayawada-520015. Call +91 8639121227 to plan your visit.',
   },
   {
     question: 'Can I enquire from Vizag or Hyderabad?',
@@ -52,8 +57,11 @@ export const structuredData = {
   '@context': 'https://schema.org',
   '@type': 'FurnitureStore',
   name: business.name,
+  legalName: business.legalName,
+  alternateName: business.alternateNames,
   telephone: business.telephone,
-  description: 'Hotel, restaurant, office, school, college and hostel furniture in Vijayawada, with enquiries welcome from Visakhapatnam (Vizag) and Hyderabad.',
+  email: business.email,
+  description: 'Andhra Hotel and Restaurant Furniture in Vijayawada manufactures furniture for hotels, restaurants, cafeterias, offices, schools, colleges and hostels, with enquiries welcome from Visakhapatnam (Vizag) and Hyderabad.',
   ...(siteUrl ? { '@id': `${siteUrl}/#business`, url: siteUrl, image: `${siteUrl}/images/upholstered-dining-set.webp` } : {}),
   address: {
     '@type': 'PostalAddress',
@@ -77,4 +85,13 @@ export const structuredData = {
     { '@type': 'City', name: 'Visakhapatnam', alternateName: 'Vizag' },
     { '@type': 'City', name: 'Hyderabad' },
   ],
+  contactPoint: {
+    '@type': 'ContactPoint',
+    telephone: business.telephone,
+    contactType: 'sales and customer support',
+    areaServed: ['IN-AP', 'IN-TG'],
+    availableLanguage: ['en', 'te', 'hi'],
+  },
+  paymentAccepted: 'Cash, Credit Card, Debit Card, Google Pay',
+  currenciesAccepted: 'INR',
 };

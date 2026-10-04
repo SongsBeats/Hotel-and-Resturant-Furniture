@@ -256,7 +256,7 @@ a, button { transition: color 180ms ease, background-color 180ms ease, border-co
 .footer-top { display: flex; align-items: center; justify-content: space-between; gap: 30px; padding-bottom: 34px; }
 .footer-top > p { color: var(--muted); font-size: 12px; }
 .footer-bottom { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding-block: 19px; border-top: 1px solid var(--line); font-size: 10px; color: var(--muted); }
-.footer-bottom nav { display: flex; gap: 24px; }
+.footer-bottom nav { display: flex; flex-wrap: wrap; gap: 24px; }
 .footer-bottom nav a { display: inline-flex; align-items: center; min-height: 36px; }
 .footer-bottom nav a:hover { color: var(--text); }
 .floating-contact { display: grid; gap: 10px; position: fixed; right: max(24px, env(safe-area-inset-right)); bottom: calc(24px + env(safe-area-inset-bottom)); width: 208px; z-index: 30; }
@@ -425,7 +425,7 @@ a, button { transition: color 180ms ease, background-color 180ms ease, border-co
   .footer-top { flex-direction: column; align-items: flex-start; gap: 18px; padding-bottom: 22px; }
   .footer-top .text-link { font-size: 16px; }
   .footer-bottom { flex-direction: column; align-items: flex-start; gap: 9px; font-size: 11px; }
-  .footer-bottom nav { order: -1; gap: 28px; font-size: 12px; }
+  .footer-bottom nav { order: -1; flex-wrap: wrap; gap: 8px 20px; font-size: 12px; }
   .floating-contact { right: max(12px, env(safe-area-inset-right)); bottom: calc(12px + env(safe-area-inset-bottom)); width: 178px; gap: 8px; }
   .floating-contact a { min-height: 53px; gap: 10px; padding: 9px 12px; }
   .floating-contact span { font-size: 10px; }

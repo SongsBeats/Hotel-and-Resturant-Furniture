@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from 'react';
 import { Armchair, ArrowUpRight, List, MapPin, Phone, X } from '@phosphor-icons/react';
 import { business } from '@/lib/business';
 
-const links = [{ href: '/#categories', label: 'Our collection' }, { href: '/gallery/', label: 'Gallery' }, { href: '/#approach', label: 'Our approach' }, { href: '/#visit', label: 'Visit us' }];
+const links = [{ href: '/#categories', label: 'Our collection' }, { href: '/gallery/', label: 'Gallery' }, { href: '/#approach', label: 'Our approach' }, { href: '/#visit', label: 'Visit us' }, { href: '/contact/', label: 'Contact' }];
 
 export default function Header() {
   const [open, setOpen] = useState(false);
@@ -24,9 +24,9 @@ export default function Header() {
     </div></div>
     <header className="site-header">
       <div className="container header-inner">
-        <a className="brand" href="/" aria-label="Hotel and Restaurant Furniture home">
+        <a className="brand" href="/" aria-label="Andhra Hotel and Restaurant Furniture home">
           <span className="brand-symbol"><Armchair size={31} weight="light" aria-hidden="true" /></span>
-          <span className="brand-name">Hotel and Restaurant{' '}<span>Furniture</span></span>
+          <span className="brand-name">Andhra Hotel and Restaurant{' '}<span>Furniture</span></span>
         </a>
         <nav aria-label="Main navigation" className="desktop-nav">{links.map(link => <a key={link.href} href={link.href}>{link.label}</a>)}</nav>
         <a className="button button-primary header-call" href={`tel:${business.telephone}`}><Phone size={17} aria-hidden="true" /><span>{business.phone}</span></a>

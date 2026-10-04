@@ -1,4 +1,4 @@
-# Hotel and Restaurant Furniture
+# Andhra Hotel and Restaurant Furniture
 
 A responsive furniture catalogue for the Vijayawada business, built with Next.js, React and TypeScript. The homepage uses the original nine photos; the dedicated gallery contains all 55 photos from the four category folders. Photos are served as compressed, responsive WebP copies. No prices are displayed.
 
@@ -6,6 +6,7 @@ A responsive furniture catalogue for the Vijayawada business, built with Next.js
 
 - Website: https://hotel-and-resturant-furniture.vercel.app/
 - Gallery: https://hotel-and-resturant-furniture.vercel.app/gallery/
+- Contact: https://hotel-and-resturant-furniture.vercel.app/contact/
 - Private source repository: https://github.com/SongsBeats/Hotel-and-Resturant-Furniture
 - Vercel project: `hotel-and-resturant-furniture` in `songsbeats-projects`.
 

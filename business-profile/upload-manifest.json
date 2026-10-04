@@ -1,0 +1,660 @@
+{
+  "business": "Hotel and Restaurant Furniture",
+  "prepared": "2026-09-17",
+  "website": "https://hotel-and-resturant-furniture.vercel.app/",
+  "logo": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\logo-corrected-v2.png",
+  "cover": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\cover-branded-v2.png",
+  "coverSource": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\WhatsApp Image 2026-09-17 at 9.45.38 AM.jpeg",
+  "photos": [
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\six-seater-sets\\six-seater-sets-01.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Six Sittings\\WhatsApp Image 2026-09-17 at 10.46.22 AM (1).jpeg",
+      "category": "six-seater-sets",
+      "width": 720,
+      "height": 484,
+      "bytes": 48502,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\six-seater-sets\\six-seater-sets-02.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Six Sittings\\WhatsApp Image 2026-09-17 at 10.46.22 AM.jpeg",
+      "category": "six-seater-sets",
+      "width": 720,
+      "height": 506,
+      "bytes": 57523,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\six-seater-sets\\six-seater-sets-03.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Six Sittings\\WhatsApp Image 2026-09-17 at 10.46.23 AM (1).jpeg",
+      "category": "six-seater-sets",
+      "width": 720,
+      "height": 522,
+      "bytes": 94577,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\six-seater-sets\\six-seater-sets-04.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Six Sittings\\WhatsApp Image 2026-09-17 at 10.46.23 AM.jpeg",
+      "category": "six-seater-sets",
+      "width": 720,
+      "height": 530,
+      "bytes": 58628,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\six-seater-sets\\six-seater-sets-05.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Six Sittings\\WhatsApp Image 2026-09-17 at 10.46.24 AM.jpeg",
+      "category": "six-seater-sets",
+      "width": 720,
+      "height": 400,
+      "bytes": 47648,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\couple-seating\\couple-seating-01.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Couple Sittings\\WhatsApp Image 2026-09-17 at 10.16.54 AM.jpeg",
+      "category": "couple-seating",
+      "width": 720,
+      "height": 564,
+      "bytes": 39310,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\couple-seating\\couple-seating-02.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Couple Sittings\\WhatsApp Image 2026-09-17 at 10.16.55 AM (1).jpeg",
+      "category": "couple-seating",
+      "width": 720,
+      "height": 525,
+      "bytes": 75393,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\couple-seating\\couple-seating-03.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Couple Sittings\\WhatsApp Image 2026-09-17 at 10.16.55 AM (2).jpeg",
+      "category": "couple-seating",
+      "width": 720,
+      "height": 682,
+      "bytes": 93596,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\couple-seating\\couple-seating-04.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Couple Sittings\\WhatsApp Image 2026-09-17 at 10.16.55 AM.jpeg",
+      "category": "couple-seating",
+      "width": 720,
+      "height": 878,
+      "bytes": 69689,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\couple-seating\\couple-seating-05.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Couple Sittings\\WhatsApp Image 2026-09-17 at 10.45.01 AM (1).jpeg",
+      "category": "couple-seating",
+      "width": 720,
+      "height": 397,
+      "bytes": 55634,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\couple-seating\\couple-seating-06.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Couple Sittings\\WhatsApp Image 2026-09-17 at 10.45.01 AM.jpeg",
+      "category": "couple-seating",
+      "width": 720,
+      "height": 859,
+      "bytes": 104167,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-01.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.30.23 AM (1).jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 395,
+      "bytes": 57545,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-02.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.30.23 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 319,
+      "bytes": 47664,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-03.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.30.24 AM (1).jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 529,
+      "bytes": 95683,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-04.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.30.24 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 321,
+      "bytes": 45420,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-05.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.37.47 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 532,
+      "bytes": 63802,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-06.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.37.48 AM (1).jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 434,
+      "bytes": 76354,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-07.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.37.48 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 521,
+      "bytes": 75082,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-08.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.37.49 AM (1).jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 523,
+      "bytes": 82639,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-09.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.37.49 AM (2).jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 396,
+      "bytes": 51679,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-10.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.37.49 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 663,
+      "bytes": 79638,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-11.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.37.50 AM (1).jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 390,
+      "bytes": 45901,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-12.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.37.50 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 531,
+      "bytes": 54516,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-13.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.37.51 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 840,
+      "bytes": 61953,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-14.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.41.25 AM (1).jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 519,
+      "bytes": 52411,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-15.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.41.25 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 515,
+      "bytes": 62591,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-16.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.41.26 AM (1).jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 875,
+      "bytes": 73840,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-17.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.41.26 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 528,
+      "bytes": 54038,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-18.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.44.23 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 520,
+      "bytes": 43171,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-19.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.44.24 AM (1).jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 390,
+      "bytes": 54692,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-20.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.44.24 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 315,
+      "bytes": 46059,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-21.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.44.25 AM (1).jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 507,
+      "bytes": 45161,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-22.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.44.25 AM (2).jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 527,
+      "bytes": 49216,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-23.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.44.25 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 525,
+      "bytes": 37669,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\four-seater-sets\\four-seater-sets-24.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Four Sittin Set\\WhatsApp Image 2026-09-17 at 10.44.26 AM.jpeg",
+      "category": "four-seater-sets",
+      "width": 720,
+      "height": 677,
+      "bytes": 83571,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-01.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.15 AM (1).jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 942,
+      "bytes": 48149,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-02.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.15 AM.jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 1608,
+      "bytes": 102412,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-03.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.16 AM (1).jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 613,
+      "bytes": 30317,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-04.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.16 AM.jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 322,
+      "bytes": 30343,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-05.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.17 AM (1).jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 403,
+      "bytes": 30537,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-06.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.17 AM (2).jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 751,
+      "bytes": 45336,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-07.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.17 AM.jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 491,
+      "bytes": 54952,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-08.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.18 AM (1).jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 506,
+      "bytes": 49719,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-09.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.18 AM.jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 513,
+      "bytes": 28382,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-10.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.19 AM (1).jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 900,
+      "bytes": 60816,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-11.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.19 AM.jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 516,
+      "bytes": 41096,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-12.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.20 AM (1).jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 634,
+      "bytes": 36488,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-13.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.20 AM (2).jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 515,
+      "bytes": 31553,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-14.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.20 AM.jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 903,
+      "bytes": 82694,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-15.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.21 AM.jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 530,
+      "bytes": 43963,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-16.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.22 AM (1).jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 319,
+      "bytes": 26654,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-17.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.22 AM.jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 527,
+      "bytes": 49426,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-18.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.23 AM (1).jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 306,
+      "bytes": 27672,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-19.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.23 AM.jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 523,
+      "bytes": 30642,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\restaurant-sofas\\restaurant-sofas-20.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\Resturant Sofas\\WhatsApp Image 2026-09-17 at 10.53.24 AM.jpeg",
+      "category": "restaurant-sofas",
+      "width": 720,
+      "height": 377,
+      "bytes": 34918,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\featured-furniture\\featured-furniture-01.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\WhatsApp Image 2026-09-17 at 9.45.37 AM.jpeg",
+      "category": "featured-furniture",
+      "width": 1080,
+      "height": 1068,
+      "bytes": 461942,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\featured-furniture\\featured-furniture-02.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\WhatsApp Image 2026-09-17 at 9.45.38 AM (1).jpeg",
+      "category": "featured-furniture",
+      "width": 1080,
+      "height": 889,
+      "bytes": 83377,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\featured-furniture\\featured-furniture-03.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\WhatsApp Image 2026-09-17 at 9.45.38 AM (2).jpeg",
+      "category": "featured-furniture",
+      "width": 720,
+      "height": 470,
+      "bytes": 56263,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\featured-furniture\\featured-furniture-04.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\WhatsApp Image 2026-09-17 at 9.45.38 AM.jpeg",
+      "category": "featured-furniture",
+      "width": 1080,
+      "height": 766,
+      "bytes": 413703,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\featured-furniture\\featured-furniture-05.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\WhatsApp Image 2026-09-17 at 9.45.39 AM (1).jpeg",
+      "category": "featured-furniture",
+      "width": 1280,
+      "height": 960,
+      "bytes": 150901,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\featured-furniture\\featured-furniture-06.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\WhatsApp Image 2026-09-17 at 9.45.39 AM.jpeg",
+      "category": "featured-furniture",
+      "width": 720,
+      "height": 454,
+      "bytes": 38900,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\featured-furniture\\featured-furniture-07.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\WhatsApp Image 2026-09-17 at 9.45.40 AM (1).jpeg",
+      "category": "featured-furniture",
+      "width": 720,
+      "height": 540,
+      "bytes": 46967,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\featured-furniture\\featured-furniture-08.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\WhatsApp Image 2026-09-17 at 9.45.40 AM (2).jpeg",
+      "category": "featured-furniture",
+      "width": 720,
+      "height": 773,
+      "bytes": 59896,
+      "duplicateOf": null,
+      "issues": []
+    },
+    {
+      "file": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\photos\\featured-furniture\\featured-furniture-09.jpg",
+      "source": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\WhatsApp Image 2026-09-17 at 9.45.40 AM.jpeg",
+      "category": "featured-furniture",
+      "width": 1077,
+      "height": 1062,
+      "bytes": 75549,
+      "duplicateOf": null,
+      "issues": []
+    }
+  ],
+  "originalCover": "D:\\Andhra Cloud Kitchen and Rythu Bazar\\Hotel and Resturant Furniture\\business-profile\\cover-photo.jpg",
+  "coverDetails": {
+    "width": 1672,
+    "height": 941,
+    "bytes": 1831116,
+    "uploaded": true,
+    "status": "Pending",
+    "generationMode": "built-in image generation",
+    "promptFile": "cover-correction-prompt.txt"
+  }
+}

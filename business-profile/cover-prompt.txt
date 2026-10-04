@@ -1,0 +1,18 @@
+Use case: ads-marketing.
+Create a professional landscape Google Business Profile cover, 16:9 composition, for this real furniture business.
+Image 1 is an actual business product photograph: use it as the photographic panel, preserving the real dining table and sage-green and dusty-pink chairs and real showroom context. Do not invent a different showroom or additional products.
+Image 2 is the existing brand logo and palette reference: forest green #214d39 and warm off-white, simple armchair line icon.
+Build an elegant, restrained editorial banner with a forest-green typography panel and the real furniture photograph in a complementary panel. Flat colours, generous space, crisp legible sans-serif typography, minimal small chair icon. Keep all text comfortably inside safe margins, not near edges. No mockup, no gradients, no price or discount, no watermarks, no QR code, no claims of quality rankings.
+Render this exact business name, preserving the deliberate spelling 'Resturant' (R-e-s-t-u-r-a-n-t), as a prominent two- or three-line title:
+"Hotel and Resturant Furniture"
+Include these exact four category labels in a neat readable two-column arrangement:
+"Office Furniture"
+"School Furniture"
+"College Furniture"
+"Hostel Furniture"
+Include this exact location in a clean footer/contact area:
+"Ambapuram Road, Vijayawada"
+"Near Karthikeya Hospital"
+Include a small phone icon followed by this exact highly legible number:
+"+91 8639121227"
+Do not add any other text. Keep the layout sophisticated and readable as a small cover thumbnail, with the business name and phone clearly prominent.

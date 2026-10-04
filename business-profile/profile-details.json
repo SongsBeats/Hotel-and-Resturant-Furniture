@@ -1,0 +1,177 @@
+{
+  "name": "Andhra Hotel and Restaurant Furniture",
+  "categorySelectedInGoogle": "Furniture wholesaler",
+  "primaryCategory": "Furniture wholesaler",
+  "additionalCategories": [
+    "Bar Restaurant Furniture Shop",
+    "Office Furniture Shop"
+  ],
+  "phone": "+91 8639121227",
+  "website": "https://hotel-and-resturant-furniture.vercel.app/",
+  "address": {
+    "street": "Ambapuram Road, Near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "postalCode": "520015",
+    "country": "India"
+  },
+  "coordinates": {
+    "latitude": 16.546791076660156,
+    "longitude": 80.64033508300781
+  },
+  "description": "Hotel and Restaurant Furniture in Vijayawada manufactures furniture for hotels, restaurants and cafeterias, including dining tables, hotel chairs, restaurant chairs and sofa seating. Explore couple seating, four-seater and six-seater dining sets, and table-and-bench sets. We also offer Office Furniture, School Furniture, College Furniture and Hostel Furniture. Contact us to discuss materials, finishes, seating comfort, dimensions, quantities and production timelines. Enquiries are welcome from Vijayawada, Visakhapatnam (Vizag) and Hyderabad. Visit us on Ambapuram Road near Karthikeya hospital, Andhra prabha colony, 4th line, Sing Nager, Vijayawada.",
+  "openingHours": {
+    "timezone": "Asia/Kolkata",
+    "Monday": {
+      "opens": "08:00",
+      "closes": "22:00"
+    },
+    "Tuesday": {
+      "opens": "08:00",
+      "closes": "22:00"
+    },
+    "Wednesday": {
+      "opens": "08:00",
+      "closes": "22:00"
+    },
+    "Thursday": {
+      "opens": "08:00",
+      "closes": "22:00"
+    },
+    "Friday": {
+      "opens": "08:00",
+      "closes": "22:00"
+    },
+    "Saturday": {
+      "opens": "08:00",
+      "closes": "22:00"
+    },
+    "Sunday": {
+      "closed": true
+    }
+  },
+  "customerVisitsAndPermanentSignConfirmed": true,
+  "serviceAreas": [
+    "Vijayawada, Andhra Pradesh, India",
+    "Visakhapatnam, Andhra Pradesh, India",
+    "Hyderabad, Telangana, India"
+  ],
+  "googleProfileLocationId": "10001774530216523307",
+  "verification": "Historical observation: Google initially displayed verified, then verification processing. Current information, photo and service views do not display that initial processing banner; individual contact, media and product changes have their own Pending statuses.",
+  "pinPlacement": "Adjusted visually to the supplied point and verified using the new Google Maps place URL. Google saved 16.5468017, 80.6403347, approximately 1.2 metres from the supplied coordinates; both have plus code GJWR+P4G.",
+  "savedGoogleCoordinates": {
+    "latitude": 16.5468017,
+    "longitude": 80.6403347
+  },
+  "status": "Ten services saved; three requested manufacturing services and descriptions pending review up to one day. Updated 656-character business description pending review, usually up to 10 minutes. No customer reviews created or posted. Other fields and media status not re-audited in this update.",
+  "photoUploadsRequested": 64,
+  "photosUploaded": 64,
+  "photoUploadVerification": "All 64 expected filenames appeared as uploaded previews, no uploads remained, and Next was enabled. One initial failed upload of couple-seating-02.jpg succeeded on retry.",
+  "logoUploaded": true,
+  "coverUploaded": true,
+  "mediaVerification": "Corrected Restaurant spelling verified in logo and cover. Superseded misspelled cover removed after visually identifying it. 65 general photo entries remain: original furniture photos plus original cover. Many photos are still Pending.",
+  "additionalCategoriesSubmitted": [
+    "Furniture wholesaler",
+    "Office Furniture Shop"
+  ],
+  "keywords": [
+    "Office Furniture",
+    "School Furniture",
+    "College Furniture",
+    "Hostel Furniture"
+  ],
+  "googleMapsShareUrl": "https://maps.app.goo.gl/ZTwRGQu86QNqKCMQ8",
+  "descriptionStatus": "Manufacturing and customer-consideration wording submitted; pending review, Google says usually up to 10 minutes.",
+  "additionalCategoriesStatus": "Approved; primary and additional categories displayed without Pending labels.",
+  "brandedCoverFile": "business-profile/cover-branded-v2.png",
+  "coverGeneration": {
+    "mode": "built-in image generation",
+    "promptFile": "business-profile/cover-correction-prompt.txt",
+    "previousPrompt": "business-profile/cover-prompt.txt"
+  },
+  "brandedCoverUploaded": true,
+  "coverStatus": "Corrected cover uploaded, visually verified in Google media viewer, Pending review.",
+  "photoManagerEntries": 65,
+  "reviewLink": "https://g.page/r/CdljjbEkN9jsEAI/review",
+  "productsAdded": 4,
+  "productCatalogFile": "business-profile/products.json",
+  "productsStatus": "All four product descriptions corrected to Hotel and Restaurant Furniture and published. All four marked Pending; restaurant sofa saved correction re-opened and visually verified.",
+  "servicesAdded": 10,
+  "servicesFile": "business-profile/services.json",
+  "servicesStatus": "All ten services and descriptions verified in the editor. Three manufacturing services saved without prices; edits pending Google review, up to one day.",
+  "profileStrengthRemaining": [
+    "Real shop-front photo showing the permanent business sign",
+    "Original interior photos of the actual business location"
+  ],
+  "contactReviewStatus": "Phone and WhatsApp pending; Google states up to seven days.",
+  "latestVerificationObservation": "The latest Business information view did not display the earlier verification-processing banner; contact changes, services and media have their own pending review markers.",
+  "openingHoursStatus": "Approved; all six days 08:00-22:00 and Sunday Closed displayed without Pending labels. Search profile displays Open, closes 10 pm.",
+  "managementLocationId": "11344710019126789034",
+  "websiteDeployment": {
+    "status": "READY",
+    "target": "production",
+    "commit": "8e5be08",
+    "id": "dpl_DSmoxuRTgEuWaJzWoqsHenUUCaJy",
+    "url": "https://hotel-and-resturant-furniture.vercel.app/",
+    "framework": "Next.js",
+    "buildDurationSeconds": 34,
+    "totalDeploymentSeconds": 56,
+    "checks": [
+      "TypeScript passed",
+      "Production static build passed",
+      "Live home and gallery HTTP 200",
+      "Corrected name, contact links, six-day hours schema, Google profile sameAs checked",
+      "Desktop layout and image load checked in Chrome"
+    ]
+  },
+  "spellingCorrection": {
+    "from": "Hotel and Resturant Furniture",
+    "to": "Hotel and Restaurant Furniture",
+    "date": "2026-09-17",
+    "nameStatus": "Approved; corrected name visible on refreshed Search profile and Business information.",
+    "descriptionStatus": "Approved; no Pending label.",
+    "primaryCategorySubmitted": "Bar Restaurant Furniture Shop",
+    "additionalCategoriesSubmitted": [
+      "Office Furniture Shop",
+      "Furniture wholesaler"
+    ],
+    "logo": "Saved and visually verified",
+    "cover": "Saved and visually verified; pending Google review",
+    "primaryCategoryStatus": "Approved; Bar Restaurant Furniture Shop shown as Primary."
+  },
+  "logoFile": "business-profile/logo-corrected-v2.png",
+  "comparisonReport": "business-profile/profile-comparison.md",
+  "cafeteriaUpdate": {
+    "date": "2026-09-17",
+    "serviceAreasVerified": [
+      "Vijayawada, Andhra Pradesh, India",
+      "Visakhapatnam, Andhra Pradesh, India",
+      "Hyderabad, Telangana, India"
+    ],
+    "serviceDescription": "Cafeteria furniture, including tables, chairs and table-and-bench sets for cafes, canteens and shared dining areas. Based in Vijayawada, welcoming enquiries from Visakhapatnam (Vizag) and Hyderabad. Contact us about sizes, quantities and availability.",
+    "ranking": "Visibility or first position in the three cities cannot be guaranteed; Google considers relevance, distance and prominence.",
+    "source": "https://support.google.com/business/answer/7091?hl=en"
+  },
+  "manufacturingUpdate": {
+    "date": "2026-09-17",
+    "services": [
+      {
+        "name": "Restaurant Furniture Manufacturers",
+        "description": "Restaurant furniture manufacturers in Vijayawada for dining tables, restaurant chairs and sofa seating. Discuss materials, finishes, seating layouts, quantities and production timelines. Enquiries welcome from Hyderabad and Visakhapatnam (Vizag)."
+      },
+      {
+        "name": "Hotel Furniture Manufacturing",
+        "description": "Hotel furniture manufacturing for dining tables, chairs and seating. Discuss dimensions, materials, finishes, quantities and production timelines with our Vijayawada business. We welcome hotel furniture enquiries from Hyderabad and Visakhapatnam (Vizag)."
+      },
+      {
+        "name": "Hotel Chairs Manufacturing",
+        "description": "Hotel chairs manufacturing for hotel dining areas, restaurants and cafeterias. Discuss chair dimensions, seating comfort, materials, finishes and quantities. Based in Vijayawada, with enquiries welcome from Hyderabad and Visakhapatnam (Vizag)."
+      }
+    ],
+    "manufacturingBasis": "Owner explicitly requested these three manufacturing services.",
+    "researchFile": "business-profile/review-keyword-research.md",
+    "reviewRequestTemplates": "business-profile/honest-review-requests.md",
+    "reviewsPosted": 0,
+    "reviewRequestsSent": 0
+  }
+}
